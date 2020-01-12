@@ -18,7 +18,7 @@
 
   - 透過本組觀察的指標，挑選出最影響股價漲跌幅的關鍵字
 
-  #### **Python Script說明**
+  #### **Python Script說明**(請依ABCD的順序瀏覽code)
 
 - 爬蟲抓股價.ipynb
 
